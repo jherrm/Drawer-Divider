@@ -1,7 +1,7 @@
 include <../MCAD/boxes.scad>
 
 // Drawer Divider v1.0
-// Print drawer dividers for your storage cabinet.
+// 3D printable drawer dividers for your storage cabinet.
 
 // Copyright (c) 2012 Jeremy Herrman ( @jherrm, http://jherrman.com )
 // Licensed under the MIT license.
